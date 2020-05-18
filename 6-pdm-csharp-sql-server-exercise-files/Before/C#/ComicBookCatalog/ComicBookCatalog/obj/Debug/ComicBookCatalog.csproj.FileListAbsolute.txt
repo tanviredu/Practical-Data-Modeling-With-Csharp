@@ -1,0 +1,1 @@
+C:\Users\Jason\SkyDrive\Personal\Bam Pow\Pluralsight\My Courses\C001-Practical Data Modeling\m3\After\C#\ComicBookCatalog\ComicBookCatalog\obj\Debug\ComicBookCatalog.csprojResolveAssemblyReference.cache

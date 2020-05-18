@@ -1,0 +1,3 @@
+ALTER TABLE Characters DROP CONSTRAINT FK__Character__Alter__29572725
+
+ALTER TABLE Characters DROP COLUMN AlterEgoId 
